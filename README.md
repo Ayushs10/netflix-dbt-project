@@ -76,5 +76,3 @@ This project demonstrates a modern data stack for ingesting, transforming, and v
 [🔗 View Repository](https://github.com/Ayushs10/netflix-dbt-project)
 
 ---
-
-## 🙌 Acknowledgm
